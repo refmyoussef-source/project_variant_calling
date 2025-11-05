@@ -41,7 +41,7 @@ The project follows a clean, step-by-step notebook workflow. Each notebook is se
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/refmyoussef-source/project_variant_calling.git](https://github.com/refmyoussef-source/project_variant_calling.git)
+    git clone https://github.com/refmyoussef-source/project_variant_calling.git
     cd project_variant_calling
     ```
 
